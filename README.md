@@ -22,9 +22,13 @@ this funciton need to be used under conda environment with certain package, the 
 
 
 **start position: top left**
+
 **exit poisition: bottom right**
+
 **"*" mazer runner**
+
 **B: is road bolck, whcih "*" can not go through**
+
 
 _instruciton:_
 1. create conda environment "conda env create --Maze_runer envname --file=environments.yml"
