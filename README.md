@@ -1,4 +1,4 @@
-# Q_learning-Robot
+# Q_learning-Robot Maze Runner
 Q_learning Robot to run a Maze
 
 <!--  
