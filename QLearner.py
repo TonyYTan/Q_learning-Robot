@@ -1,5 +1,10 @@
 """"""
 """
+================================================================================================================
+I used the Q-Learning template from Georgia Institute of Technology. this is a public template can be found in :
+https://lucylabs.gatech.edu/ml4t/spring2023/project-7/
+================================================================================================================
+
 Template for implementing QLearner  (c) 2015 Tucker Balch
 
 Copyright 2018, Georgia Institute of Technology (Georgia Tech)
