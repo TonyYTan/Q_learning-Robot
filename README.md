@@ -37,5 +37,5 @@ _instruction:_
 4. enter maze height 
 5. enter maze width
 6. enter how many road block (random) would like to set
-7. how many study round can Q-Learning robot train
+7. how many study rounds can Q-Learning robot train
 
