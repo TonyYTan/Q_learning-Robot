@@ -30,7 +30,7 @@ this funciton need to be used under conda environment with certain package, the 
 **B: is road block, which "*" can not go through**
 
 
-_instruciton:_
+_instruction:_
 1. create conda environment "conda env create --Maze_runer envname --file=environments.yml"
 2. activate conda environment "conda activate Maze_runer"
 3. use the funciton "python Mazer.py"
