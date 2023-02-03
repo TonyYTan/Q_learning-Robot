@@ -1,4 +1,4 @@
-name: ml4t
+name: Maze_runer
 channels:
 - conda-forge
 - defaults
