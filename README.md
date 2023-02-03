@@ -27,14 +27,14 @@ this funciton need to be used under conda environment with certain package, the 
 
 **"*" mazer runner**
 
-**B: is road bolck, whcih "*" can not go through**
+**B: is road block, which "*" can not go through**
 
 
 _instruciton:_
 1. create conda environment "conda env create --Maze_runer envname --file=environments.yml"
 2. activate conda environment "conda activate Maze_runer"
 3. use the funciton "python Mazer.py"
-4. enter maze heigh 
+4. enter maze height 
 5. enter maze width
 6. enter how many road block (random) would like to set
 7. how many study round can Q-Learning robot train
